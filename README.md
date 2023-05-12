@@ -14,6 +14,8 @@
 - 🎯 Meu objetivo é atuar como Cientista de Dados.
 - 💡 Acredito que o poder dos dados é imenso e sua análise adequada pode levar a tomadas de decisão mais adequadas e soluções inovadoras para uma variedade de problemas.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendra1-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="shivendra1-cyber" /> </p>
+
 <!---
 higordevellard/higordevellard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
