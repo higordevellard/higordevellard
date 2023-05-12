@@ -10,7 +10,7 @@
 
 
 - ⚡ Sou Engenheiro Eletricista formado na UERJ.
-- 🌱 Atualmente estou aprendendo Data Science e aprimorando as minhas habilidades em ferramentas como Python | R | SQL | Power BI | Dax | Machine Learning
+- 🌱 Atualmente estou aprendendo Data Science e aprimorando as minhas habilidades em ferramentas como Python || R || SQL || Power BI || Dax || Machine Learning
 - 🎯 Meu objetivo é atuar como Cientista de Dados.
 - 💡 Acredito que o poder dos dados é imenso e sua análise adequada pode levar a tomadas de decisão mais adequadas e soluções inovadoras para uma variedade de problemas.
 
